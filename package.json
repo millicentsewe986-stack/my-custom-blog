@@ -1,0 +1,16 @@
+{
+  "name": "my-custom-blog",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+  "dependencies": {
+    "next": "15.0.0",
+    "react": "19.0.0-rc",
+    "react-dom": "19.0.0-rc",
+    "gray-matter": "^4.0.3"
+  }
+}
